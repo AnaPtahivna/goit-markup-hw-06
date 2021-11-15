@@ -980,7 +980,7 @@ height: 18px;
 
 .form-textspace {
 font-size: 12px;
-Line height: 1.17;
+Line-height: 1.17;
 color: #757575;
 }
 
@@ -1031,7 +1031,12 @@ font-size: 14px;
 line-height: 1.46;
 Align: Left;
 Letter-spacing: 3%;
-color: #757575
+color: #757575;
+}
+
+
+.checkbox-text-link {
+  color:var(--accent-color)
 }
 
 .backdrop.is-hidden {
