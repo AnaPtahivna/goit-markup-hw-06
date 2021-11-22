@@ -1,0 +1,2 @@
+:root{--header-color: #ffffff;--header-logo-color: #000000;--header-text-color: #212121;--title-color: #212121;--text-color: #757575;--footer-address-color: #ffffff;--footer-contacts-color: rgba(255, 255, 255, 0.6);--accent-color: #2196f3}body{font-family:'Roboto', sans-serif}p,h1,h2,h3,h4,h5,h6{margin:0}ul{margin:0;padding:0}img{display:block}button{cursor:pointer}.container{width:1200px;padding-left:15px;padding-right:15px;margin:0 auto}.list{list-style:none}.link{text-decoration:none}
+/*# sourceMappingURL=main.min.css.map */

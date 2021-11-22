@@ -1,0 +1,25 @@
+//UTILS
+@import './utils/var';
+
+
+
+
+//BASE
+@import './base/common';
+
+
+//COMPONENTS
+@import './component/header';
+@import './component/footer';
+@import './components/backdrop';
+@import './components/modal';
+
+
+//LAYOUT
+
+@import './layout/hero';
+@import './layout/advantage';
+@import './layout/activities';
+@import './layout/team';
+@import './layout/clients';
+@import './layout/portfolio_page';
